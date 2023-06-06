@@ -24,4 +24,4 @@
 <p align="center">
   <img src="https://github.com/kseob758/wtable-collection/assets/125840318/b59f7d12-3d96-4485-a197-748f4cf4b89d" width="500">
 </p>
-- 설명, 재료, 요리방법은 상세 페이지에서 수집
+- 설명, 재료, 요리방법은 먼저 수집한 링크를 이용하여 상세 페이지에서 수집
